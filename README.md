@@ -1,2 +1,2 @@
 # projeto-pokédex-site
- Um site com um projeto de uma Pokédex utilizando a PokeAPI.
+Um projeto de site com uma Pokédex utilizando a PokeAPI.
